@@ -1,0 +1,78 @@
+header{
+	height: 50px;
+}
+
+li{
+	margin-left: 20px;
+}
+
+li#home{
+	margin-left: 50px;
+}
+
+section#main_image{
+	background-color: fuchsia;
+	height: 700px;
+	width: 100%;
+	z-index: 9999;
+}
+
+section#main_image div#slogan{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	/*background-color: purple;*/
+	margin-top: 200px;
+	text-shadow: 0 0 0.4em #000000;
+	font-family: cursive;
+}
+
+section#testimonials{
+	/*height: 700px;*/
+	background-color: beige;
+}
+
+section#testimonials h1{
+	color: black;
+	font-family: cursive;
+}
+
+section#testimonials p{
+	color: black;
+	font-family: cursive;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+footer{
+	height: 300px;
+	background-color: maroon;
+}
+
+
+footer div#bot_contact{
+	height: 80px;
+	width: 500px;
+	background-color: pink;
+	margin-top: 70px;
+	float: left;
+	margin-left: 50px;
+}
+
+footer div#bot_social{
+	height: 180px;
+	width: 500px;
+	background-color: lightblue;
+	margin-top: 70px;
+	float: left;
+	margin-left: 200px;
+}
+
+div.clear{
+	clear: both;
+}
+
+footer div#copyright{
+	color: white;
+	font-family: cursive;
+}
