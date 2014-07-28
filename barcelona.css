@@ -2,6 +2,7 @@ header{
 	height: 50px;
 }
 
+
 li{
 	margin-left: 20px;
 }
@@ -15,6 +16,13 @@ section#main_image{
 	height: 700px;
 	width: 100%;
 	z-index: 9999;
+}
+
+section#main_image img{
+	background-color: blue;
+	height: 330px;
+	width: 200px;
+	margin-top: 0px;
 }
 
 section#main_image div#slogan{
