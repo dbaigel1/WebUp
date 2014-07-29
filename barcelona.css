@@ -11,6 +11,11 @@ li#home{
 	margin-left: 50px;
 }
 
+li img{
+	height: 90px;
+	width: 200px;
+}
+
 section#main_image{
 	background-color: fuchsia;
 	height: 700px;
