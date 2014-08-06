@@ -1,44 +1,117 @@
+html{
+	background-color: #FBFAF1;
+}
+
+div.navbar{
+	height: 50px;
+}
 header{
 	height: 50px;
 }
 
 
 li{
-	margin-left: 20px;
+	font-size: 20px;
+	font-family: Trebuchet MS;
 }
 
 li#home{
-	margin-left: 50px;
+	margin-left: 20px;
 }
 
-li img{
-	height: 90px;
-	width: 200px;
+li#phone{
+	
 }
+img#top_image{
+	height: 90px;
+	width: 100px;
+	float: left;
+}
+
 
 section#main_image{
 	background-color: fuchsia;
 	height: 700px;
 	width: 100%;
 	z-index: 9999;
+	background-image: url(bhouse.jpg);
+	background-repeat: no-repeat;
 }
 
-section#main_image img{
-	background-color: blue;
-	height: 330px;
-	width: 200px;
-	margin-top: 0px;
+div#barcelona{
+	font-size: 86px;
+	font-family: cursive;
+	/*background-color: green;*/
+	width: 380px;
+	margin-top: 100px;
+	margin-left: 30px;
+	color: #FBFAF1;
 }
 
-section#main_image div#slogan{
-	color: white;
+div#botone{
+	font-size: 86px;
+	font-family: cursive;
+	/*background-color: orange;*/
+	width: 350px;
+	margin-top: 100px;
+	color: #FBFAF1;
+}
+
+section#main_image div#logo_image{
+	/*background-color: blue;*/
+	height: 400px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+section#main_image div#logo_image img{
+	/*background-color: blue;*/
+	height: 400px;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+section#main_image p#slogan{
+	color: #FBFAF1;
 	text-align: center;
-	font-size: 50px;
+	font-size: 40px;
 	/*background-color: purple;*/
-	margin-top: 200px;
 	text-shadow: 0 0 0.4em #000000;
 	font-family: cursive;
 }
+
+section#who-what{
+	height: 300px;
+}
+
+div#who-we-are{
+	background-color: #BCDFE0;
+	height: 200px;
+	
+}
+
+div#what-we-do{
+	background-color: #BCDFE0;
+	height: 200px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 section#testimonials{
 	/*height: 700px;*/
@@ -46,15 +119,16 @@ section#testimonials{
 }
 
 section#testimonials h1{
-	color: black;
+	color: #51C1CC;
 	font-family: cursive;
 }
 
 section#testimonials p{
-	color: black;
+	color: #51C1CC;
 	font-family: cursive;
 	font-size: 20px;
 	margin-top: 20px;
+	width: 800px;
 }
 
 footer{
