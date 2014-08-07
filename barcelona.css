@@ -90,22 +90,20 @@ section#who-what{
 
 div#who-we-are{
 	background-color: #BCDFE0;
-	height: 200px;
+	height: 300px;
+	width: 500px;
+	float: left;
 	
 }
 
 div#what-we-do{
 	background-color: #BCDFE0;
-	height: 200px;
+	height: 300px;
+	width: 500px;
+	float: left;
+	border-left: dotted;
 	
 }
-
-
-
-
-
-
-
 
 
 
@@ -132,8 +130,8 @@ section#testimonials p{
 }
 
 footer{
-	height: 300px;
-	background-color: maroon;
+	height: 200px;
+	background-color: black;
 }
 
 
@@ -141,18 +139,18 @@ footer div#bot_contact{
 	height: 80px;
 	width: 500px;
 	background-color: pink;
-	margin-top: 70px;
+	margin-top: 20px;
 	float: left;
 	margin-left: 50px;
 }
 
 footer div#bot_social{
-	height: 180px;
+	height: 80px;
 	width: 500px;
-	background-color: lightblue;
-	margin-top: 70px;
+	background-color: lightgreen;
+	margin-top: 20px;
 	float: left;
-	margin-left: 200px;
+	margin-left: 100px;
 }
 
 div.clear{
@@ -162,4 +160,85 @@ div.clear{
 footer div#copyright{
 	color: white;
 	font-family: cursive;
+	margin-top: 80px;
+	margin-left: 20px;
 }
+
+
+
+
+/*about page*/
+
+
+
+
+section#main-about{
+	height: 600px;
+	width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #51C1CC;
+
+}
+
+section#main-about h1#about-title{
+	font-family: Trebuchet MS;
+	margin-left: 20px;
+	padding-top: 40px;
+}
+
+section#main-about h4{
+	/*background-color: green;*/
+	text-align: justify;
+	width: 600px;
+	margin-left: 60px;
+	font-size: 20px;
+	float: left;
+	
+}
+
+section#main-about div#testims{
+	background-color: #EFEFD0;
+	width: 300px;
+	height: 511px;
+	float: right;
+
+}
+
+section#main-about div#testims p.side-test{
+	width: 260px;
+}
+
+footer#about-footer{
+	background-color: black;
+	height: 200px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+
+
+
+/*main contact page*/
+
+
+
+section#main-contact{
+	width: 1200px;
+	background-color: #51C1CC;
+	height: 700px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
