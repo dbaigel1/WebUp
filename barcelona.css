@@ -173,7 +173,7 @@ footer div#copyright{
 
 
 section#main-about{
-	height: 600px;
+	height: 650px;
 	width: 1200px;
 	margin-right: auto;
 	margin-left: auto;
@@ -201,7 +201,9 @@ section#main-about div#testims{
 	background-color: #EFEFD0;
 	width: 300px;
 	height: 511px;
-	float: right;
+	float: left;
+	margin-left: 140px;
+	border-radius: 10px;
 
 }
 
@@ -233,12 +235,31 @@ section#main-contact{
 }
 
 
+/*main services page*/
 
 
 
+section#main-services{
+	background-color: #51C1CC;
+	height: 700px;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+}
 
+section#main-services h1#services-heading{
+	/*background-color: purple;*/
+	width: 200px;
+	margin-left: 60px;
+	padding-top: 40px;
+}
 
+section#main-services p#how-good{
+	background-color: lightgreen;
+	font-size: 24px;
+	text-align: center;
 
+}
 
 
 
