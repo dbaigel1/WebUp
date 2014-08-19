@@ -74,6 +74,7 @@ section#main_image div#logo_image img{
 
 section#main_image p#slogan{
 	color: #FBFAF1;
+	margin-top: 200px;
 	text-align: center;
 	font-size: 40px;
 	/*background-color: purple;*/
@@ -101,7 +102,7 @@ div#what-we-do{
 	height: 300px;
 	width: 500px;
 	float: left;
-	border-left: dotted;
+	/*border-left: dotted;*/
 	
 }
 
@@ -302,7 +303,10 @@ div#bigger{
 }
 
 
-
+.nopadding{
+	margin: 0; 
+	padding: 0;
+}
 
 
 

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<symbol  id="Arrow_30" viewBox="-22.9 -7.7 45.7 15.3">
+	<polygon fill="none" points="-22.9,-7.7 22.9,-7.7 22.9,7.7 -22.9,7.7 	"/>
+	<g>
+		<polygon points="-5.7,-3.2 -5.7,-7.7 22.9,0 -5.7,7.7 -5.7,3.2 -22.9,3.2 -22.9,-3.2 		"/>
+	</g>
+</symbol>
+<g id="Layer_1">
+	<rect fill="#6ECEE9" width="200" height="200"/>
+</g>
+<g id="Layer_2">
+	<path fill="#DB3B53" stroke="#000000" stroke-miterlimit="10" d="M160.4,133.6H40.3c-3.5,0-6.3-2.8-6.3-6.3V47.8
+		c0-3.5,2.8-6.3,6.3-6.3h120.1c3.5,0,6.3,2.8,6.3,6.3v79.5C166.7,130.8,163.9,133.6,160.4,133.6z"/>
+	<rect x="39.9" y="47.8" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="120.8" height="80.9"/>
+	<path fill="#DB3B53" stroke="#000000" stroke-miterlimit="10" d="M11.6,137.1h76.6c0,0-0.3,3.5,2.8,2.4l18.1,0.2
+		c0,0,3.8,0.8,3.8-2.6h75.5c0,0,2.3,8-8.9,8H18.4C18.4,145,10.1,144.7,11.6,137.1z"/>
+	<rect x="71" y="52.6" fill="#B6E3F1" width="59.1" height="72.8"/>
+	
+		<use xlink:href="#Arrow_30"  width="45.7" height="15.3" x="-22.9" y="-7.7" transform="matrix(-9.018560e-02 -0.1674 -0.2246 0.121 133.3335 97.7472)" overflow="visible"/>
+	<rect x="74.3" y="56.2" fill="#F4FBFD" stroke="#000000" stroke-miterlimit="10" width="52.8" height="65.3"/>
+	<text transform="matrix(1 0 0 1 89.7496 67.264)"><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="10">Your </tspan><tspan x="-12.9" y="12" font-family="'HelveticaNeue'" font-size="10">Apartment </tspan><tspan x="-6.8" y="24" font-family="'HelveticaNeue'" font-size="10">is ready!</tspan></text>
+</g>
+</svg>
