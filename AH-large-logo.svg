@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-200 -50 600 300" enable-background="new -200 -50 600 300" xml:space="preserve">
+<g id="Layer_1_1_">
+	<ellipse fill="#FFD025" stroke="#000000" stroke-miterlimit="10" cx="-79.4" cy="112.3" rx="70.7" ry="88.6"/>
+	<path fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" d="M-55.6,112c6.1-5.8,9.7-14.1,9.7-22.9c0-18.2-15.2-32.9-34-32.9
+		s-34,14.6-34,32.9c0,9.4,4.1,17.9,10.8,24c-6.1,5.8-9.7,14.1-9.7,22.9c0,18.2,15.2,32.9,34,32.9s34-14.6,34-32.9
+		C-44.9,126.4-49,117.8-55.6,112z"/>
+	<path fill="#FFD025" stroke="#000000" stroke-miterlimit="10" d="M333.4,128.6H-14.8c-9.1,0-16.6-7.5-16.6-16.6l0,0
+		c0-9.1,7.5-16.6,16.6-16.6h348.2c9.1,0,16.6,7.5,16.6,16.6l0,0C350,121.1,342.8,128.6,333.4,128.6z"/>
+	<path fill="#E39925" stroke="#000000" stroke-miterlimit="10" d="M232.9,133L232.9,133c-2.5,0-4.4-1.9-4.4-4.4V95.2
+		c0-2.5,1.9-4.4,4.4-4.4l0,0c2.5,0,4.4,1.9,4.4,4.4v33.4C237.3,131.1,235.4,133,232.9,133z"/>
+</g>
+<g id="Layer_2">
+	<text transform="matrix(1 0 0 1 -20.2946 87.076)" font-family="'Coquette'" font-size="110.4362">AH</text>
+	<text transform="matrix(1 0 0 1 100.0961 158.0735)" font-family="'Coquette'" font-size="33.1309">apartment hosting</text>
+	<path fill="#E39925" stroke="#000000" stroke-miterlimit="10" d="M315.7,83.3V72h9.4V52.1h-18.5c0,6.1-5,11-11,11
+		c-6.1,0-11-5-11-11H266v19.6h10.2V83H266v12.4h59.1V83L315.7,83.3L315.7,83.3z"/>
+</g>
+</svg>

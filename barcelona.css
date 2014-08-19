@@ -26,8 +26,8 @@ img#top_image{
 
 
 section#main_image{
-	background-color: fuchsia;
-	height: 700px;
+	/*background-color: fuchsia;*/
+	height: 500px;
 	width: 100%;
 	z-index: 9999;
 	background-image: url(bhouse.jpg);
@@ -54,8 +54,8 @@ div#botone{
 }
 
 section#main_image div#logo_image{
-	/*background-color: blue;*/
-	height: 400px;
+	/*background-color: blue*/
+	height: 200px;
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
@@ -64,10 +64,11 @@ section#main_image div#logo_image{
 
 section#main_image div#logo_image img{
 	/*background-color: blue;*/
-	height: 400px;
+	height: 200px;
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 0px;
 
 }
 
@@ -135,18 +136,20 @@ footer{
 
 
 footer div#bot_contact{
-	height: 80px;
+	height: 120px;
 	width: 500px;
-	background-color: pink;
-	margin-top: 20px;
+	/*background-color: pink;*/
+	margin-top: 10px;
 	float: left;
+	font-family: Trebuchet MS;
+	color: white;
 }
 
 footer div#bot_social{
 	height: 80px;
 	width: 500px;
 	background-color: lightgreen;
-	margin-top: 20px;
+	margin-top: 10px;
 	float: left;
 	margin-left: 100px;
 }
