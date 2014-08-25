@@ -232,23 +232,24 @@ footer div#copyright{
 
 section#main-about{
 	height: 650px;
-	width: 1200px;
+	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
+	box-shadow: 0px 2px 5px #000000;
 	background-color: #AFF0FC;
 
 }
 
 section#main-about h1#about-title{
 	font-family: Trebuchet MS;
-	margin-left: 20px;
+	margin-left: 60px;
 	padding-top: 40px;
 }
 
 section#main-about h4{
 	/*background-color: green;*/
 	text-align: justify;
-	width: 600px;
+	width: 500px;
 	margin-left: 60px;
 	font-size: 20px;
 	float: left;
@@ -260,7 +261,8 @@ section#main-about div#testims{
 	width: 300px;
 	height: 511px;
 	float: left;
-	margin-left: 140px;
+	margin-left: 100px;
+	margin-right: 40px;
 	border-radius: 10px;
 
 }
