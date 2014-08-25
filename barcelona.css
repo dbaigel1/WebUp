@@ -299,10 +299,11 @@ section#main-contact{
 
 section#main-services{
 	background-color: #AFF0FC;
-	height: 1500px;
-	width: 1200px;
+	height: 1300px;
+	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
+	box-shadow: 0px 2px 5px #000000;
 }
 
 section#main-services h1#services-heading{
@@ -313,10 +314,10 @@ section#main-services h1#services-heading{
 }
 
 section#main-services p#how-good{
-	background-color: lightpink;
+	/*background-color: lightpink;*/
 	font-size: 20px;
 	text-align: justify;
-	width: 1000px;
+	width: 800px;
 	margin-right: auto;
 	margin-left: auto;
 
@@ -327,23 +328,28 @@ section#main-services div.service-icon{
 	height: 200px;
 	width: 200px;
 	background-color: beige;
-	margin-top: 20px;
+	margin-top: 40px;
 	float: left;
+	border-radius: 5px;
+	border: 2px solid #2798AD;
+
 }
 
 section#main-services div.service-desc{
 	height: 200px;
-	width: 600px;
-	background-color: lightgreen;
+	width: 640px;
+	/*background-color: lightgreen;*/
 	margin-top: 20px;
+	margin-left: 20px;
 	float: left;
 }
 
 section#main-services div.service{
 	height: 200px;
-	width: 800px;
+	width: 890px;
 	margin-left: auto;
 	margin-right: auto;
+	/*background-color: blue;*/
 }
 
 
