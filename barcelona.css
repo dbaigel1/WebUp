@@ -181,7 +181,7 @@ section#testimonials p{
 
 footer{
 	height: 200px;
-	background-color: black;
+	background-color: #222222;
 }
 
 
@@ -299,7 +299,7 @@ section#main-contact{
 
 section#main-services{
 	background-color: #AFF0FC;
-	height: 1000px;
+	height: 1500px;
 	width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
@@ -347,10 +347,12 @@ section#main-services div.service{
 }
 
 
-div#bigger{
-	height: 500px;
+div.service div.service-desc#bigger{
+	height: 420px;
 }
 
-
+div.service div.service-desc#kinda-bigger{
+	height: 320px;
+}
 
 
