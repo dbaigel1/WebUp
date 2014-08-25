@@ -88,33 +88,77 @@ section#main_image p#slogan{
 }
 
 section#who-what{
-	height: 300px;
-	width: 1000px;
+	height: 350px;
+	width: 950px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 div#who-we-are{
-	background-color: #BCDFE0;
-	height: 300px;
-	width: 500px;
+	background-color: #222222;
+	height: 240px;
+	width: 300px;
 	float: left;
+	box-shadow: 0px 2px 5px #000000;
+	margin-top: 20px;
 	
 }
 
 div#what-we-do{
-	background-color: #BCDFE0;
-	height: 300px;
-	width: 500px;
+	background-color: #222222;
+	height: 240px;
+	width: 300px;
+	margin-left: 25px;
 	float: left;
-	/*border-left: dotted;*/
+	box-shadow: 0px 2px 5px #000000;
+	margin-top: 20px;
 	
 }
 
+div#our-testims{
+	background-color: #222222;
+	height: 240px;
+	width: 300px;
+	margin-left: 25px;
+	float: left;
+	/*border-left: solid;*/
+	box-shadow: 0px 2px 5px #000000;
+	margin-top: 20px;
+}
+
+.nopadding{
+	margin: 0; 
+	padding: 0;
+}
 
 
+.link-on-home{
+	font-size: 14px;
+	text-align: justify;
+	color: white;
+	text-decoration: none;
+	margin-top: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
 
+.learn-more:hover{
+	color: yellow;
+}
 
+.link-title{
+	font-size: 18px;
+	text-align: center;
+	color: white;
+
+}
+
+.learn-more{
+	font-size: 14px;
+	text-align: right;
+	color: white;
+	padding-right: 15px;
+}
 
 
 section#testimonials{
@@ -172,7 +216,7 @@ div.clear{
 }
 
 footer div#copyright{
-	color: white;
+	color: black;
 	font-family: cursive;
 	margin-top: 80px;
 	margin-left: 20px;
@@ -306,14 +350,6 @@ section#main-services div.service{
 div#bigger{
 	height: 500px;
 }
-
-
-.nopadding{
-	margin: 0; 
-	padding: 0;
-}
-
-
 
 
 
