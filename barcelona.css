@@ -1,3 +1,7 @@
+.wrapper{
+	background-color: #80A8AF;
+}
+
 div.navbar{
 	height: 50px;
 }
@@ -22,7 +26,7 @@ img#top_image{
 	height: 80px;
 	width: 150px;
 	float: left;
-	/*background-color: pink;*/
+	background-color: pink;
 }
 
 
@@ -250,7 +254,7 @@ section#main-contact{
 
 
 section#main-services{
-	background-color: #51C1CC;
+	background-color: #AFF0FC;
 	height: 1000px;
 	width: 1200px;
 	margin-left: auto;
