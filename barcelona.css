@@ -119,16 +119,16 @@ div#what-we-do{
 
 section#testimonials{
 	/*height: 700px;*/
-	background-color: beige;
+	background-color: green;
 }
 
 section#testimonials h1{
-	color: #51C1CC;
+	color: #AFF0FC;
 	font-family: cursive;
 }
 
 section#testimonials p{
-	color: #51C1CC;
+	color: #AFF0FC;
 	font-family: cursive;
 	font-size: 20px;
 	margin-top: 20px;
@@ -191,7 +191,7 @@ section#main-about{
 	width: 1200px;
 	margin-right: auto;
 	margin-left: auto;
-	background-color: #51C1CC;
+	background-color: #AFF0FC;
 
 }
 
@@ -242,7 +242,7 @@ footer#about-footer{
 
 section#main-contact{
 	width: 1200px;
-	background-color: #51C1CC;
+	background-color: #AFF0FC;
 	height: 700px;
 	margin-left: auto;
 	margin-right: auto;
