@@ -23,10 +23,10 @@ li#phone{
 	
 }
 img#top_image{
-	height: 80px;
-	width: 150px;
+/*	height: 80px;
+	width: 150px;*/
 	float: left;
-	background-color: pink;
+	background-color: none;
 }
 
 
@@ -84,7 +84,7 @@ section#main_image p#slogan{
 	font-size: 40px;
 	/*background-color: purple;*/
 	text-shadow: 0 0 0.4em #000000;
-	font-family: cursive;
+	font-family: coquette;
 }
 
 section#who-what{
