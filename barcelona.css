@@ -23,8 +23,8 @@ li#phone{
 	
 }
 img#top_image{
-/*	height: 80px;
-	width: 150px;*/
+	height: 50px;
+	width: 80px;
 	float: left;
 	background-color: none;
 }
