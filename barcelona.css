@@ -60,10 +60,11 @@ div#botone{
 
 section#main_image div#logo_image{
 	/*background-color: blue*/
-	height: 200px;
-	width: 800px;
+	height: 550px;
+	width: 550px;
 	margin-left: auto;
 	margin-right: auto;
+	margin-top: 20px;
 
 }
 
