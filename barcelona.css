@@ -181,7 +181,7 @@ section#testimonials p{
 }
 
 footer{
-	height: 200px;
+	height: 235px;
 	background-color: #222222;
 }
 
@@ -217,7 +217,7 @@ div.clear{
 }
 
 footer div#copyright{
-	color: black;
+	color: white;
 	font-family: cursive;
 	margin-top: 80px;
 	margin-left: 20px;
