@@ -299,15 +299,17 @@ section#main-contact h1#contact-header{
 	width: 200px;
 	margin-left: 60px;
 	padding-top: 40px;
+	/*background-color: black;*/
 }
 
 div.wrapper section#main-contact div#contact-info{
-	height: 200px;
-	width: 400px;
+	height: 440px;
+	width: 380px;
 	background-color: lightgreen;
 	margin-left: 60px;
 	float: left;
-	margin-top: 160px;
+	margin-top: 60px;
+	box-shadow: 0px 1px 5px #000000;
 }
 
 
