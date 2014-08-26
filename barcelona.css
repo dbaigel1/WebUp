@@ -329,6 +329,12 @@ div.wrapper section#main-contact div.contact-info2{
 	box-shadow: 0px 1px 5px #000000;
 }
 
+div.wrapper section#main-contact div.contact-info p{
+	font-family: Trebuchet MS;
+	font-size: 18px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
 
 /*main services page*/
 
