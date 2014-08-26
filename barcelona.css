@@ -295,6 +295,22 @@ section#main-contact{
 	box-shadow: 0px 2px 5px #000000;
 }
 
+section#main-contact h1#contact-header{
+	width: 200px;
+	margin-left: 60px;
+	padding-top: 40px;
+}
+
+div.wrapper section#main-contact div#contact-info{
+	height: 200px;
+	width: 400px;
+	background-color: lightgreen;
+	margin-left: 60px;
+	float: left;
+	margin-top: 160px;
+}
+
+
 
 /*main services page*/
 
@@ -363,5 +379,16 @@ div.service div.service-desc#bigger{
 div.service div.service-desc#kinda-bigger{
 	height: 320px;
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
