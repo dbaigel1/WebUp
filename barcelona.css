@@ -92,6 +92,7 @@ section#who-what{
 	width: 950px;
 	margin-left: auto;
 	margin-right: auto;
+	background-color: red;
 }
 
 div#who-we-are{
@@ -297,21 +298,36 @@ section#main-contact{
 
 section#main-contact h1#contact-header{
 	width: 200px;
-	margin-left: 60px;
+	margin-left: 90px;
 	padding-top: 40px;
 	/*background-color: black;*/
 }
 
-div.wrapper section#main-contact div#contact-info{
+section#main-contact div#big-contact{
+	width: 820;
+	height: 500px;
+	/*background-color: red;*/
+}
+
+div.wrapper section#main-contact div.contact-info{
 	height: 440px;
 	width: 380px;
-	background-color: lightgreen;
-	margin-left: 60px;
+	background-color: #F4FEFF;
+	margin-left: 90px;
 	float: left;
-	margin-top: 60px;
+	margin-top: 40px;
 	box-shadow: 0px 1px 5px #000000;
 }
 
+div.wrapper section#main-contact div.contact-info2{
+	height: 440px;
+	width: 380px;
+	background-color: #F4FEFF;
+	margin-left: 60px;
+	float: left;
+	margin-top: 40px;
+	box-shadow: 0px 1px 5px #000000;
+}
 
 
 /*main services page*/
