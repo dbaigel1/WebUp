@@ -250,18 +250,18 @@ section#main-about h4{
 	/*background-color: green;*/
 	text-align: justify;
 	width: 500px;
-	margin-left: 60px;
+	margin-left: 80px;
 	font-size: 20px;
 	float: left;
 	
 }
 
 section#main-about div#testims{
-	background-color: #EFEFD0;
+	background-color: #F4FEFF;
 	width: 300px;
-	height: 511px;
+	height: 530px;
 	float: left;
-	margin-left: 100px;
+	margin-left: 80px;
 	margin-right: 40px;
 	border-radius: 10px;
 
