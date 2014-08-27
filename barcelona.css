@@ -12,7 +12,7 @@ header{
 
 li{
 	font-size: 20px;
-	font-family: Trebuchet MS;
+	font-family: Verdana;
 }
 
 li#home{
@@ -58,14 +58,34 @@ section#main_image div#logo_image img{
 
 }
 
-section#main_image p#slogan{
-	color: #FBFAF1;
-	margin-top: 140px;
+section#main_image p#apartment_hosting{
+	color: #5BDDF7;
+	margin-top: 100px;
 	text-align: center;
 	font-size: 40px;
 	/*background-color: purple;*/
 	text-shadow: 0 0 0.4em #000000;
-	font-family: Tahoma;
+	font-family: Verdana;
+}
+ 
+section#main_image div#header_line{
+	background-color: #FEBE40;
+	height: 3px;
+	width:500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+
+}
+
+section#main_image p#slogan{
+	color: #FBFAF1;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 40px;
+	/*background-color: purple;*/
+	text-shadow: 0 0 0.4em #000000;
+	font-family: Verdana;
 }
 
 section#who-what{
@@ -73,6 +93,7 @@ section#who-what{
 	width: 950px;
 	margin-left: auto;
 	margin-right: auto;
+	font-family: Verdana;
 	/*background-color: red;*/
 }
 
@@ -83,7 +104,7 @@ div#who-we-are{
 	float: left;
 	box-shadow: 0px 2px 5px #000000;
 	margin-top: 20px;
-	
+	font-family: Verdana;
 }
 
 div#what-we-do{
@@ -94,6 +115,7 @@ div#what-we-do{
 	float: left;
 	box-shadow: 0px 2px 5px #000000;
 	margin-top: 20px;
+	font-family: Verdana;
 	
 }
 
@@ -142,25 +164,6 @@ div#our-testims{
 	padding-right: 15px;
 }
 
-
-section#testimonials{
-	/*height: 700px;*/
-	background-color: green;
-}
-
-section#testimonials h1{
-	color: #AFF0FC;
-	font-family: cursive;
-}
-
-section#testimonials p{
-	color: #AFF0FC;
-	font-family: cursive;
-	font-size: 20px;
-	margin-top: 20px;
-	width: 800px;
-}
-
 footer{
 	height: 195px;
 	background-color: #222222;
@@ -173,7 +176,7 @@ footer div#bot_contact{
 	/*background-color: pink;*/
 	margin-top: 10px;
 	float: left;
-	font-family: Trebuchet MS;
+	font-family: Verdana;
 	color: white;
 }
 
@@ -199,7 +202,7 @@ div.clear{
 
 footer div#copyright{
 	color: white;
-	font-family: cursive;
+	font-family: Verdana;
 	margin-top: 40px;
 	margin-left: 20px;
 }
@@ -213,7 +216,7 @@ footer div#copyright{
 
 
 section#main-about{
-	height: 650px;
+	height: 700px;
 	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
@@ -223,7 +226,7 @@ section#main-about{
 }
 
 section#main-about h1#about-title{
-	font-family: Trebuchet MS;
+	font-family: Verdana;
 	margin-left: 60px;
 	padding-top: 40px;
 }
@@ -235,17 +238,19 @@ section#main-about h4{
 	margin-left: 80px;
 	font-size: 20px;
 	float: left;
+	font-family: Verdana;
 	
 }
 
 section#main-about div#testims{
 	background-color: #F4FEFF;
 	width: 300px;
-	height: 530px;
+	height: 580px;
 	float: left;
 	margin-left: 80px;
 	margin-right: 40px;
 	border-radius: 10px;
+	font-family: Verdana;
 
 }
 
