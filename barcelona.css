@@ -39,25 +39,6 @@ section#main_image{
 	background-repeat: no-repeat;
 }
 
-div#barcelona{
-	font-size: 86px;
-	font-family: cursive;
-	/*background-color: green;*/
-	width: 380px;
-	margin-top: 100px;
-	margin-left: 30px;
-	color: #FBFAF1;
-}
-
-div#botone{
-	font-size: 86px;
-	font-family: cursive;
-	/*background-color: orange;*/
-	width: 350px;
-	margin-top: 100px;
-	color: #FBFAF1;
-}
-
 section#main_image div#logo_image{
 	/*background-color: lightgreen;*/
 	height: 300px;
@@ -84,7 +65,7 @@ section#main_image p#slogan{
 	font-size: 40px;
 	/*background-color: purple;*/
 	text-shadow: 0 0 0.4em #000000;
-	font-family: Herculanum;
+	font-family: Tahoma;
 }
 
 section#who-what{
