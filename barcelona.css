@@ -181,7 +181,7 @@ section#testimonials p{
 }
 
 footer{
-	height: 235px;
+	height: 195px;
 	background-color: #222222;
 }
 
@@ -219,7 +219,7 @@ div.clear{
 footer div#copyright{
 	color: white;
 	font-family: cursive;
-	margin-top: 80px;
+	margin-top: 40px;
 	margin-left: 20px;
 }
 
@@ -306,7 +306,7 @@ section#main-contact h1#contact-header{
 section#main-contact div#big-contact{
 	width: 820;
 	height: 500px;
-	/*background-color: red;*/
+	/*background-color: lightgreen;*/
 }
 
 div.wrapper section#main-contact div.contact-info{
