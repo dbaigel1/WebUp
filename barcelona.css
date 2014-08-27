@@ -234,8 +234,8 @@ section#main-about h1#about-title{
 section#main-about h4{
 	/*background-color: green;*/
 	text-align: justify;
-	width: 500px;
-	margin-left: 80px;
+	width: 440px;
+	margin-left: 100px;
 	font-size: 20px;
 	float: left;
 	font-family: Verdana;
@@ -316,7 +316,7 @@ div.wrapper section#main-contact div.contact-info2{
 }
 
 div.wrapper section#main-contact div.contact-info p{
-	font-family: Trebuchet MS;
+	font-family: Verdana;
 	font-size: 18px;
 	margin-left: 10px;
 	margin-top: 10px;
@@ -340,15 +340,17 @@ section#main-services h1#services-heading{
 	width: 200px;
 	margin-left: 60px;
 	padding-top: 40px;
+	font-family: Verdana;
 }
 
 section#main-services p#how-good{
 	/*background-color: lightpink;*/
-	font-size: 20px;
+	font-size: 18px;
 	text-align: justify;
-	width: 800px;
+	width: 700px;
 	margin-right: auto;
 	margin-left: auto;
+	font-family: Verdana;
 
 }
 
@@ -366,13 +368,22 @@ section#main-services div.service-icon{
 
 section#main-services div.service-desc{
 	height: 200px;
-	width: 640px;
+	width: 590px;
 	/*background-color: lightgreen;*/
 	margin-top: 20px;
 	margin-left: 20px;
 	float: left;
+	font-family: Verdana;
+	font-size: 16px;
 }
 
+section#main-services li{
+	font-family: Verdana;
+	font-size: 18px;
+
+
+
+}
 section#main-services div.service{
 	height: 200px;
 	width: 890px;
@@ -383,11 +394,17 @@ section#main-services div.service{
 
 
 div.service div.service-desc#bigger{
-	height: 420px;
+	height: 350px;
+	font-family: Verdana;
+	width: 600px;
+	font-size: 18px;
 }
 
 div.service div.service-desc#kinda-bigger{
 	height: 320px;
+	font-family: Verdana;
+	font-size: 18px;
+	width: 600px;
 }
 
 
