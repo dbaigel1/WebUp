@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
-<symbol  id="Arrow_30" viewBox="-22.9 -7.7 45.7 15.3">
+	 viewBox="72 0 936 936" enable-background="new 72 0 936 936" xml:space="preserve">
+<symbol  id="Arrow_30" viewBox="-22.9 -7.7 45.8 15.4">
 	<polygon fill="none" points="-22.9,-7.7 22.9,-7.7 22.9,7.7 -22.9,7.7 	"/>
 	<g>
 		<polygon points="-5.7,-3.2 -5.7,-7.7 22.9,0 -5.7,7.7 -5.7,3.2 -22.9,3.2 -22.9,-3.2 		"/>
 	</g>
 </symbol>
-<g id="Layer_1">
-	<rect fill="#6ECEE9" width="200" height="200"/>
+<g id="Layer_3">
+	<g id="Layer_1_1_">
+		<rect x="72" y="0" fill="#6ECEE9" width="936" height="936"/>
+	</g>
+	<g id="Layer_2_1_">
+		<path fill="#FEBE40" stroke="#000000" stroke-miterlimit="10" d="M822.7,625.2H260.6c-16.4,0-29.5-13.1-29.5-29.5V223.7
+			c0-16.4,13.1-29.5,29.5-29.5h562.1c16.4,0,29.5,13.1,29.5,29.5v372.1C852.2,612.1,839.1,625.2,822.7,625.2z"/>
+		<path fill="#FEBE40" stroke="#000000" stroke-miterlimit="10" d="M126.3,641.6h358.5c0,0-1.4,16.4,13.1,11.2l84.7,0.9
+			c0,0,17.8,3.7,17.8-12.2h353.3c0,0,10.8,37.4-41.7,37.4H158.1C158.1,678.6,119.3,677.2,126.3,641.6z"/>
+	</g>
 </g>
-<g id="Layer_2">
-	<path fill="#DB3B53" stroke="#000000" stroke-miterlimit="10" d="M160.4,133.6H40.3c-3.5,0-6.3-2.8-6.3-6.3V47.8
-		c0-3.5,2.8-6.3,6.3-6.3h120.1c3.5,0,6.3,2.8,6.3,6.3v79.5C166.7,130.8,163.9,133.6,160.4,133.6z"/>
-	<rect x="39.9" y="47.8" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="120.8" height="80.9"/>
-	<path fill="#DB3B53" stroke="#000000" stroke-miterlimit="10" d="M11.6,137.1h76.6c0,0-0.3,3.5,2.8,2.4l18.1,0.2
-		c0,0,3.8,0.8,3.8-2.6h75.5c0,0,2.3,8-8.9,8H18.4C18.4,145,10.1,144.7,11.6,137.1z"/>
-	<rect x="71" y="52.6" fill="#B6E3F1" width="59.1" height="72.8"/>
-	
-		<use xlink:href="#Arrow_30"  width="45.7" height="15.3" x="-22.9" y="-7.7" transform="matrix(-9.018560e-02 -0.1674 -0.2246 0.121 133.3335 97.7472)" overflow="visible"/>
-	<rect x="74.3" y="56.2" fill="#F4FBFD" stroke="#000000" stroke-miterlimit="10" width="52.8" height="65.3"/>
-	<text transform="matrix(1 0 0 1 89.7496 67.264)"><tspan x="0" y="0" font-family="'HelveticaNeue'" font-size="10">Your </tspan><tspan x="-12.9" y="12" font-family="'HelveticaNeue'" font-size="10">Apartment </tspan><tspan x="-6.8" y="24" font-family="'HelveticaNeue'" font-size="10">is ready!</tspan></text>
+<g id="Layer_1">
+	<g id="Layer_2">
+		<rect x="258.7" y="223.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="565.3" height="378.6"/>
+		<rect x="404.3" y="246.2" fill="#B6E3F1" width="276.6" height="340.7"/>
+		
+			<use xlink:href="#Arrow_30"  width="45.8" height="15.4" x="-22.9" y="-7.7" transform="matrix(-0.4193 -0.7783 -1.0443 0.5626 696.0744 457.4678)" overflow="visible"/>
+		<rect x="419.7" y="263" fill="#F4FBFD" stroke="#000000" stroke-miterlimit="10" width="247.1" height="305.6"/>
+		<text transform="matrix(1 0 0 1 492.0287 314.7921)" font-family="'HelveticaNeue'" font-size="46.8">Your </text>
+		<text transform="matrix(1 0 0 1 431.6564 370.9524)" font-family="'HelveticaNeue'" font-size="46.8">Apartment </text>
+		<text transform="matrix(1 0 0 1 460.2053 427.1127)" font-family="'HelveticaNeue'" font-size="46.8">is ready!</text>
+	</g>
 </g>
 </svg>

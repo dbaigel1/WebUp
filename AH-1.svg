@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 110 60" enable-background="new 0 0 110 60" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1080 936" enable-background="new 0 0 1080 936" xml:space="preserve">
 <g id="Layer_3" display="none">
-	<rect x="-9" y="-24" display="inline" width="139" height="113"/>
+	<rect x="-88.4" y="-62.2" display="inline" width="1364.7" height="1109.5"/>
 </g>
 <g id="Layer_2">
-	<polyline fill="#6ECEE9" stroke="#FEBE40" stroke-miterlimit="10" points="49.3,3.7 71,3.7 71,22.3 85.8,22.3 85.8,3.7 103.7,3.7 
-		108.5,58.7 87.8,58.7 87,40 70.5,40 70.2,58.7 65.3,58.7 49.3,3.7 	"/>
+	<polyline fill="#6ECEE9" stroke="#FEBE40" stroke-width="7" stroke-miterlimit="10" points="484,209.8 697.1,209.8 697.1,392.4 
+		842.4,392.4 842.4,209.8 1018.1,209.8 1065.3,749.8 862,749.8 854.2,566.2 692.2,566.2 689.2,749.8 641.1,749.8 484,209.8 	"/>
 </g>
-<g id="Layer_1">
-	<path fill="#6ECEE9" stroke="#FEBE40" stroke-miterlimit="10" d="M49.3,3.7H29.8l-16.5,55h52L49.3,3.7z M41.2,37v9l1.1,1.7
-		l-1.1,2.4l1.1,1.2l-1.1,1.6l0.5,1.2v3.6L37.3,54V37c-3.1-0.9-5.4-3.8-5.4-7.2c0-4.1,3.4-7.5,7.5-7.5c4.1,0,7.5,3.4,7.5,7.5
-		C46.8,33.3,44.4,36.2,41.2,37z"/>
+<g id="Layer_1_1_">
+	<path fill="#6ECEE9" stroke="#FEBE40" stroke-width="7" stroke-miterlimit="10" d="M484,209.8H292.6l-162,540h510.5L484,209.8z
+		 M404.5,536.7v88.4l10.8,16.7l-10.8,23.6l10.8,11.8l-10.8,15.7l4.9,11.8V740l-43.2-36.3V536.7c-30.4-8.8-53-37.3-53-70.7
+		c0-40.3,33.4-73.6,73.6-73.6c40.3,0,73.6,33.4,73.6,73.6C459.5,500.4,435.9,528.9,404.5,536.7z"/>
 </g>
 </svg>
