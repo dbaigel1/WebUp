@@ -32,10 +32,10 @@ img#top_image{
 
 section#main_image{
 	/*background-color: fuchsia;*/
-	height: 550px;
+	height: 600px;
 	width: 100%;
 	z-index: 9999;
-	background-image: url(bhouse.jpg);
+	background-image: url(barecelona_water.jpg);
 	background-repeat: no-repeat;
 }
 
