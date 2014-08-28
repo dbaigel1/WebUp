@@ -298,9 +298,11 @@ section#main-contact div#big-contact{
 div.wrapper section#main-contact div.contact-info{
 	height: 440px;
 	width: 380px;
-	background-color: #F4FEFF;
-	margin-left: 90px;
-	float: left;
+	background-color: #222222;
+	/*margin-left: 90px;*/
+	margin-left: auto;
+	margin-right: auto;
+	/*float: left;*/
 	margin-top: 40px;
 	box-shadow: 0px 1px 5px #000000;
 }
@@ -318,8 +320,9 @@ div.wrapper section#main-contact div.contact-info2{
 div.wrapper section#main-contact div.contact-info p{
 	font-family: Verdana;
 	font-size: 18px;
-	margin-left: 10px;
-	margin-top: 10px;
+	margin-left: 20px;
+	padding-top: 30px;
+	color: white;
 }
 
 /*main services page*/
