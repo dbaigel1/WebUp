@@ -216,7 +216,7 @@ footer div#copyright{
 
 
 section#main-about{
-	height: 700px;
+	height: 800px;
 	width: 1000px;
 	margin-right: auto;
 	margin-left: auto;
@@ -236,7 +236,7 @@ section#main-about h4{
 	text-align: justify;
 	width: 440px;
 	margin-left: 100px;
-	font-size: 20px;
+	font-size: 18px;
 	float: left;
 	font-family: Verdana;
 	
@@ -245,7 +245,7 @@ section#main-about h4{
 section#main-about div#testims{
 	background-color: #F4FEFF;
 	width: 300px;
-	height: 580px;
+	height: 680px;
 	float: left;
 	margin-left: 80px;
 	margin-right: 40px;
@@ -408,6 +408,15 @@ div.service div.service-desc#kinda-bigger{
 	font-family: Verdana;
 	font-size: 18px;
 	width: 600px;
+}
+
+#yellow{
+	width:1000px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+
 }
 
 
