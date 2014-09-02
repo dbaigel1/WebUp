@@ -292,7 +292,7 @@ section#main-contact h1#contact-header{
 section#main-contact div#big-contact{
 	width: 820;
 	height: 500px;
-	/*background-color: lightgreen;*/
+	background-image: url(spain-contact.jpg)
 }
 
 div.wrapper section#main-contact div.contact-info{
@@ -303,17 +303,7 @@ div.wrapper section#main-contact div.contact-info{
 	margin-left: auto;
 	margin-right: auto;
 	/*float: left;*/
-	margin-top: 40px;
-	box-shadow: 0px 1px 5px #000000;
-}
-
-div.wrapper section#main-contact div.contact-info2{
-	height: 440px;
-	width: 380px;
-	background-color: #F4FEFF;
-	margin-left: 60px;
-	float: left;
-	margin-top: 40px;
+	margin-top: 30px;
 	box-shadow: 0px 1px 5px #000000;
 }
 
@@ -410,14 +400,6 @@ div.service div.service-desc#kinda-bigger{
 	width: 600px;
 }
 
-#yellow{
-	width:1000px;
-	height: 600px;
-	margin-left: auto;
-	margin-right: auto;
-	margin-top: 10px;
-
-}
 
 
 
