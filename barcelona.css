@@ -245,7 +245,7 @@ section#main-about h4{
 section#main-about div#testims{
 	background-color: #F4FEFF;
 	width: 300px;
-	height: 680px;
+	height: 690px;
 	float: left;
 	margin-left: 80px;
 	margin-right: 40px;
@@ -275,8 +275,8 @@ footer#about-footer{
 
 section#main-contact{
 	width: 1000px;
-	background-color: #AFF0FC;
-	height: 700px;
+	background-image: url(spain-contact.jpg);
+	height: 650px;
 	margin-left: auto;
 	margin-right: auto;
 	box-shadow: 0px 2px 5px #000000;
@@ -292,7 +292,7 @@ section#main-contact h1#contact-header{
 section#main-contact div#big-contact{
 	width: 820;
 	height: 500px;
-	background-image: url(spain-contact.jpg)
+	/*background-image: url(spain-contact.jpg)*/
 }
 
 div.wrapper section#main-contact div.contact-info{
@@ -317,11 +317,29 @@ div.wrapper section#main-contact div.contact-info p{
 
 /*main services page*/
 
+div#yellow{
+	background-image: url(yellow-room.jpg);
+	width:1000px;
+	height:470px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#box-shade{
+	background-color: rgba(0, 0, 0, 0.5);
+	/*opacity: 0.5;*/
+	width:750px;
+	height:250px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	box-shadow: 0px 2px 5px #000000;
 
 
+}
 section#main-services{
 	background-color: #AFF0FC;
-	height: 1300px;
+	height: 1400px;
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
@@ -334,6 +352,7 @@ section#main-services h1#services-heading{
 	margin-left: 60px;
 	padding-top: 40px;
 	font-family: Verdana;
+	color: white;
 }
 
 section#main-services p#how-good{
@@ -344,6 +363,7 @@ section#main-services p#how-good{
 	margin-right: auto;
 	margin-left: auto;
 	font-family: Verdana;
+	color: white;
 
 }
 
